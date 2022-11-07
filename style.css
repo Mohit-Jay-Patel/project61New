@@ -1,0 +1,20 @@
+h1 {
+color: greenyellow;
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+a {
+   color: darkred !important;
+   text-decoration:double !important;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+   text-align: center !important;
+  
+}
+.contact_1 h3 {
+   display: inline ;
+
+  }
+body {
+   color: blueviolet;
+}
